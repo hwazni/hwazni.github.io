@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page]([./another-page.html](https://www.ucl.ac.uk/computer-science/research/research-groups/principles-natural-language-logic-and-statistics#:~:text=We%20conduct%20research%20on%20mathematical,parsing%20processes%20to%20media%20recommendations.)).
 
 I am a Ph.D student under the supervision of Mehrnoosh Sadrzadeh. I am currently based in University College London (UCL) within the Principles of Natural Language, Logic and Statistics research lab as well as the Principle of Programming Languages and Verification group.
 
