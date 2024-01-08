@@ -6,7 +6,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+I am a Ph.D student under the supervision of Mehrnoosh Sadrzadeh. I am currently based in University College London (UCL) within the Principles of Natural Language, Logic and Statistics research lab as well as the Principle of Programming Languages and Verification group.
+
+My main research involves developing, implementing and evaluating compositional vector-based models of natural language semantics using methods from machine learning & quantum computing. Other research interests include multimodal representations across language, vision, & audio and their applications.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
