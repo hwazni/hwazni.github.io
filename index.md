@@ -8,6 +8,6 @@ My main research involves developing, implementing and evaluating compositional 
 
 #### Latest News
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Presented my summer internship work at SKY.
+*   Presented our paper at EMNLP.
+*   Presented out paper at QTML.
