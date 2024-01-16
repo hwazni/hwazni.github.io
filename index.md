@@ -9,5 +9,6 @@ My main research involves developing, implementing and evaluating compositional 
 #### Latest News
 
 *   Presented my summer internship work at SKY.
-*   Presented our paper at EMNLP.
-*   Presented out paper at QTML.
+*   Presented our paper at EMNLP 2023.
+*   Presented our paper at [QTML]([URL](https://qtml-2023.web.cern.ch/)https://qtml-2023.web.cern.ch/).
+
