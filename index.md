@@ -11,4 +11,4 @@ My main research involves developing, implementing and evaluating compositional 
 *   Presented my summer internship work at SKY.
 *   Presented our paper at [EMNLP 2023](https://aclanthology.org/2023.crac-main.3/).
 *   Presented our paper at [QTML 2023](https://qtml-2023.web.cern.ch/).
-
+*   Presented at a collaborative workshop involving Quantinuum and BBC, focusing on Quantum Recommender Systems (ReCsys).
