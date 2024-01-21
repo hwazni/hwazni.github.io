@@ -1,3 +1,9 @@
 logo: /assets/img/logo.jpg
 title: Hadi Wazni
 theme: jekyll-theme-minimal
+email: hwazni9@gmail.com
+
+platforms:
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/hadiwazni
