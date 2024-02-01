@@ -8,7 +8,7 @@ My main research involves developing, implementing and evaluating compositional 
 
 #### Latest News
 
-*   Presented my summer internship work at SKY. [Replay Detection](https://drive.google.com/drive/folders/1eQSEU_6hMBNSfpHbqDpCIK8pnzeo2zKy?usp=sharing).
+*   Presented my summer 2023 internship work at SKY. [Replay Detection](https://drive.google.com/drive/folders/1eQSEU_6hMBNSfpHbqDpCIK8pnzeo2zKy?usp=sharing).
 *   Presented our [paper](https://aclanthology.org/2023.crac-main.3/) at EMNLP 2023.
 *   Presented our abstract at [QTML 2023](https://qtml-2023.web.cern.ch/).
 *   Presented at a collaborative workshop involving Quantinuum and BBC, focusing on Quantum Recommender Systems (ReCsys).
