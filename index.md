@@ -17,7 +17,7 @@ My main research involves developing, implementing and evaluating compositional 
 *   Presented my summer 2022 internship work at SKY. [Multimodal Realt-time Analysis](https://drive.google.com/drive/folders/1-71JJhnuwyIECkMEInSTDxHbvQv-vFlw?usp=sharing)
 *   Gave a talk to our PPLV group about _Compositional Distributional Noun Phrase Plausibility_. 
 *   Presented our paper at [SemSpace 2021](https://sites.google.com/view/semspace2021/home).
-*   Atended [Innovation and Entrepreneurship 8-week Programme](https://www.ucl.ac.uk/computer-science/collaborate/cs-innovation-and-entrepreneurship)
+*   Attended [Innovation and Entrepreneurship 8-week Programme](https://www.ucl.ac.uk/computer-science/collaborate/cs-innovation-and-entrepreneurship)
 *   I began my role as a Research Assistant at UCL in a project titled _Similarity-Based Media Recommendation_ funded through a [Discovery to Use grant](https://www.ucl.ac.uk/enterprise/staff/access-funding/discovery-use-funding), in collaboration with BBC R&D.
 *   Attended [World Logic Day Event](https://www.ucl.ac.uk/engineering/events/2021/jan/logical-journeys-webinar-world-logic-day-event) at UCL.
 *   Presented the experimental part of our [paper](https://compositionality-journal.org/papers/compositionality-5-2/) at [ACT 2020](https://www.appliedcategorytheory.org/). 
