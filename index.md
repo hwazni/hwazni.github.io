@@ -4,7 +4,7 @@ layout: default
 
 I am a Ph.D student under the supervision of Prof. Mehrnoosh Sadrzadeh. I am currently based in University College London (UCL) within the [Principles of Natural Language, Logic and Statistics](https://www.ucl.ac.uk/computer-science/research/research-groups/principles-natural-language-logic-and-statistics) research lab as well as the [Principle of Programming Languages and Verification](http://pplv.cs.ucl.ac.uk/welcome/) group.
 
-My main research involves developing, implementing and evaluating compositional vector-based models of natural language semantics using methods from machine learning & quantum computing. I'm interested also in grounded multimodal understanding.
+My main research involves developing, implementing and evaluating compositional vector-based models of natural language semantics using methods from machine learning & quantum computing. Also, I'm interested in grounded multimodal understanding.
 
 #### Latest News
 
