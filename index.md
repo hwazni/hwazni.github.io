@@ -8,6 +8,7 @@ My main research involves developing, implementing and evaluating compositional 
 
 #### Latest News
 
+*   Organized and presented at [UCL Festival of Engineering](https://www.ucl.ac.uk/engineering/festival-engineering).
 *   Organized and presented at [Responsible AI Event](https://www.ucl.ac.uk/computer-science/events/2024/jul/ucl-festival-engineering-responsible-ai).
 *   Presented our poster at [ICML Meetup](https://www.icml-meetup-london.info/).
 *   Presented my summer 2023 internship work at SKY. [Replay Detection](https://drive.google.com/drive/folders/1eQSEU_6hMBNSfpHbqDpCIK8pnzeo2zKy?usp=sharing)
